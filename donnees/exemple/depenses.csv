@@ -1,0 +1,42 @@
+date;fournisseur;numero_facture;montant_ht;montant_tva;montant_ttc;categorie;date_echeance;statut;justificatif
+2026-08-01;SCI Locaux Fictifs;SLF-2608-001;1200.00;240.00;1440.00;loyer;2026-08-06;payee;justificatifs/2026-08/SLF-2608-001.pdf
+2026-08-03;Scierie Imaginaire;SI-2608-003;337.00;67.40;404.40;materiaux;2026-09-02;payee;justificatifs/2026-08/SI-2608-003.pdf
+2026-08-07;Panneaux Fictifs Distribution;PFD-2608-004;760.40;152.08;912.48;materiaux;2026-09-06;payee;justificatifs/2026-08/PFD-2608-004.pdf
+2026-08-11;Quincaillerie Démo;QD-2608-005;508.20;101.64;609.84;materiaux;2026-09-10;payee;justificatifs/2026-08/QD-2608-005.pdf
+2026-08-12;Station Fictive Carburants;SFC-2608-010;204.00;40.80;244.80;carburant;2026-08-12;sans_justificatif;
+2026-08-15;Vernis et Teintes Exemple;VET-2608-006;470.50;94.10;564.60;materiaux;2026-09-14;payee;justificatifs/2026-08/VET-2608-006.pdf
+2026-08-18;Fournitures Bureau Fictives;FBF-2608-031;86.40;17.28;103.68;fournitures;2026-08-18;payee;justificatifs/2026-08/FBF-2608-031.pdf
+2026-08-19;Scierie Imaginaire;SI-2608-007;1076.90;215.38;1292.28;materiaux;2026-09-18;payee;justificatifs/2026-08/SI-2608-007.pdf
+2026-08-21;Garage Démo Utilitaires;GDU-2608-034;485.00;97.00;582.00;entretien_vehicule;2026-08-21;payee;justificatifs/2026-08/GDU-2608-034.pdf
+2026-08-23;Panneaux Fictifs Distribution;PFD-2608-008;1320.60;264.12;1584.72;materiaux;2026-09-22;payee;justificatifs/2026-08/PFD-2608-008.pdf
+2026-08-27;Quincaillerie Démo;QD-2608-009;829.60;165.92;995.52;materiaux;2026-09-26;payee;justificatifs/2026-08/QD-2608-009.pdf
+2026-08-28;Cabinet Comptable Exemple;CCE-2608-002;320.00;64.00;384.00;honoraires;2026-09-07;payee;justificatifs/2026-08/CCE-2608-002.pdf
+2026-09-01;SCI Locaux Fictifs;SLF-2609-011;1200.00;240.00;1440.00;loyer;2026-09-06;payee;justificatifs/2026-09/SLF-2609-011.pdf
+2026-09-03;Panneaux Fictifs Distribution;PFD-2609-013;869.10;173.82;1042.92;materiaux;2026-10-03;payee;justificatifs/2026-09/PFD-2609-013.pdf
+2026-09-07;Quincaillerie Démo;QD-2609-014;1110.20;222.04;1332.24;materiaux;2026-10-07;payee;justificatifs/2026-09/QD-2609-014.pdf
+2026-09-08;Menuiserie Sous-traitance Exemple;MSE-2609-038;3100.00;620.00;3720.00;sous_traitance;2026-10-08;payee;justificatifs/2026-09/MSE-2609-038.pdf
+2026-09-11;Vernis et Teintes Exemple;VET-2609-015;418.20;83.64;501.84;materiaux;2026-10-11;payee;justificatifs/2026-09/VET-2609-015.pdf
+2026-09-12;Station Fictive Carburants;SFC-2609-020;203.00;40.60;243.60;carburant;2026-09-12;payee;justificatifs/2026-09/SFC-2609-020.pdf
+2026-09-15;Scierie Imaginaire;SI-2609-016;922.70;184.54;1107.24;materiaux;2026-10-15;payee;justificatifs/2026-09/SI-2609-016.pdf
+2026-09-16;Fournitures Bureau Fictives;FBF-2609-032;123.50;24.70;148.20;fournitures;2026-09-16;sans_justificatif;
+2026-09-18;Restaurant Le Fictif;RLF-2609-035;142.00;14.20;156.20;repas;2026-09-18;sans_justificatif;
+2026-09-19;Panneaux Fictifs Distribution;PFD-2609-017;1256.60;251.32;1507.92;materiaux;2026-10-19;payee;justificatifs/2026-09/PFD-2609-017.pdf
+2026-09-23;Quincaillerie Démo;QD-2609-018;1391.70;278.34;1670.04;materiaux;2026-10-23;payee;justificatifs/2026-09/QD-2609-018.pdf
+2026-09-27;Vernis et Teintes Exemple;VET-2609-019;458.40;91.68;550.08;materiaux;2026-10-27;payee;justificatifs/2026-09/VET-2609-019.pdf
+2026-09-28;Cabinet Comptable Exemple;CCE-2609-012;320.00;64.00;384.00;honoraires;2026-10-08;payee;justificatifs/2026-09/CCE-2609-012.pdf
+2026-10-01;SCI Locaux Fictifs;SLF-2610-021;1200.00;240.00;1440.00;loyer;2026-10-06;payee;justificatifs/2026-10/SLF-2610-021.pdf
+2026-10-02;Machines Bois Fictives;MBF-2610-037;8000.00;1600.00;9600.00;investissement;2026-10-02;payee;justificatifs/2026-10/MBF-2610-037.pdf
+2026-10-03;Quincaillerie Démo;QD-2610-023;743.40;148.68;892.08;materiaux;2026-11-02;a_payer;justificatifs/2026-10/QD-2610-023.pdf
+2026-10-06;Fournitures Bureau Fictives;FBF-2610-033;64.20;12.84;77.04;fournitures;2026-10-06;payee;justificatifs/2026-10/FBF-2610-033.pdf
+2026-10-07;Vernis et Teintes Exemple;VET-2610-024;796.80;159.36;956.16;materiaux;2026-11-06;a_payer;justificatifs/2026-10/VET-2610-024.pdf
+2026-10-09;Outillage Imaginaire;OI-2610-036;860.00;172.00;1032.00;outillage;2026-11-08;sans_justificatif;
+2026-10-11;Scierie Imaginaire;SI-2610-025;781.00;156.20;937.20;materiaux;2026-11-10;a_payer;justificatifs/2026-10/SI-2610-025.pdf
+2026-10-12;Station Fictive Carburants;SFC-2610-030;233.00;46.60;279.60;carburant;2026-10-12;sans_justificatif;
+2026-10-14;Menuiserie Sous-traitance Exemple;MSE-2610-039;7200.00;1440.00;8640.00;sous_traitance;2026-11-13;a_payer;justificatifs/2026-10/MSE-2610-039.pdf
+2026-10-15;Panneaux Fictifs Distribution;PFD-2610-026;743.90;148.78;892.68;materiaux;2026-11-14;a_payer;justificatifs/2026-10/PFD-2610-026.pdf
+2026-10-19;Quincaillerie Démo;QD-2610-027;484.40;96.88;581.28;materiaux;2026-11-18;a_payer;justificatifs/2026-10/QD-2610-027.pdf
+2026-10-20;Panneaux Fictifs Distribution;PFD-2610-040;2680.00;536.00;3216.00;materiaux;2026-11-14;a_payer;justificatifs/2026-10/PFD-2610-040.pdf
+2026-10-23;Vernis et Teintes Exemple;VET-2610-028;473.30;94.66;567.96;materiaux;2026-11-22;a_payer;justificatifs/2026-10/VET-2610-028.pdf
+2026-10-24;Scierie Imaginaire;SI-2610-041;1940.00;388.00;2328.00;materiaux;2026-11-23;a_payer;justificatifs/2026-10/SI-2610-041.pdf
+2026-10-27;Scierie Imaginaire;SI-2610-029;846.30;169.26;1015.56;materiaux;2026-11-26;a_payer;justificatifs/2026-10/SI-2610-029.pdf
+2026-10-28;Cabinet Comptable Exemple;CCE-2610-022;320.00;64.00;384.00;honoraires;2026-11-07;a_payer;justificatifs/2026-10/CCE-2610-022.pdf

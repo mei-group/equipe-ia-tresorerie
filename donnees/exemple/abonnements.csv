@@ -1,0 +1,13 @@
+fournisseur;libelle;montant_ttc;periodicite;date_renouvellement;utilise
+Logiciel Facturation Fictif;Facturation et devis;36.00;mensuelle;2026-11-03;oui
+Opérateur Téléphone Démo;Forfaits mobiles x3;89.97;mensuelle;2026-11-05;oui
+Box Internet Exemple;Internet atelier;44.99;mensuelle;2026-11-08;oui
+Suite Bureautique Imaginaire;Messagerie et documents x4;48.00;mensuelle;2026-11-01;oui
+Planning Chantier Fictif;Planning d'équipe;59.00;mensuelle;2026-11-12;non
+Banque d'Images Démo;Photos pour devis;29.00;mensuelle;2026-11-17;non
+Stockage Cloud Exemple;Sauvegarde 2 To;9.99;mensuelle;2026-11-10;oui
+Géolocalisation Flotte Fictive;Suivi utilitaires;39.00;mensuelle;2026-11-14;inconnu
+Logiciel CAO Imaginaire;Licence plans 3D;2388.00;annuelle;2026-11-15;oui
+Assurance Décennale Fictive;Responsabilité civile et décennale;3120.00;annuelle;2027-01-01;oui
+Annuaire Pro Démo;Fiche annuaire en ligne;590.00;annuelle;2027-03-01;inconnu
+Location Terminal Carte Exemple;Terminal de paiement;19.90;mensuelle;2026-11-02;oui

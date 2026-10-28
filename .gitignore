@@ -1,0 +1,14 @@
+# Les accès
+.env
+.env.*
+!.env.example
+
+# Ce que produit l'équipe : brouillons, rapports, dossier comptable, journal
+sorties/
+
+# Vos données réelles restent sur votre poste. Seul l'exemple fictif est publié.
+donnees/*
+!donnees/exemple/
+
+# Réglages locaux de Claude Code
+.claude/settings.local.json

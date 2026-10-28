@@ -1,0 +1,2 @@
+raison_sociale;forme;capital;siren;rcs_ville;adresse;code_postal;ville;tva_intracom;regime_tva;email;telephone;iban;delai_paiement_defaut_jours;seuil_alerte_tresorerie
+Atelier Fictif SAS;SAS;10000.00;000000000;Villefictive;1 rue de l'Exemple;00100;Villefictive;FR00000000000;reel_normal;contact@atelier-fictif.example.com;00 00 00 00 00;FR00 0000 0000 0000 0000 0000 000;30;15000.00

@@ -1,0 +1,112 @@
+date;libelle;montant;reference;categorie
+2026-08-01;Solde d'ouverture au 1er août 2026;28000.00;;solde_initial
+2026-08-01;PRLV Suite Bureautique Imaginaire;-48.00;Suite Bureautique Imaginaire;abonnement
+2026-08-02;PRLV Location Terminal Carte Exemple;-19.90;Location Terminal Carte Exemple;abonnement
+2026-08-03;PRLV Logiciel Facturation Fictif;-36.00;Logiciel Facturation Fictif;abonnement
+2026-08-04;VIR EMIS SCI Locaux Fictifs;-1440.00;SLF-2608-001;loyer
+2026-08-05;PRLV Opérateur Téléphone Démo;-89.97;Opérateur Téléphone Démo;abonnement
+2026-08-05;PRLV Prêt Véhicule Exemple échéance;-615.00;PRET-2026-08;emprunt
+2026-08-08;PRLV Box Internet Exemple;-44.99;Box Internet Exemple;abonnement
+2026-08-10;PRLV Stockage Cloud Exemple;-9.99;Stockage Cloud Exemple;abonnement
+2026-08-12;PRLV Planning Chantier Fictif;-59.00;Planning Chantier Fictif;abonnement
+2026-08-12;CB Station Fictive Carburants;-244.80;SFC-2608-010;carburant
+2026-08-14;PRLV Géolocalisation Flotte Fictive;-39.00;Géolocalisation Flotte Fictive;abonnement
+2026-08-15;PRLV Organisme social Fictif cotisations;-4920.00;COT-2026-07;charges_sociales
+2026-08-17;PRLV Banque d'Images Démo;-29.00;Banque d'Images Démo;abonnement
+2026-08-18;CB Fournitures Bureau Fictives;-103.68;FBF-2608-031;fournitures
+2026-08-21;CB Garage Démo Utilitaires;-582.00;GDU-2608-034;entretien_vehicule
+2026-08-21;PRLV Impôts Fictifs TVA mensuelle;-4150.00;TVA-2026-07;impots_taxes
+2026-08-28;Frais tenue de compte;-18.50;FRAIS-2026-08;frais_bancaires
+2026-08-29;VIR RECU Cabinet Exemple et Associés;1122.00;F2026-0106;encaissement_client
+2026-08-29;VIR EMIS Salaires août;-9040.00;SAL-2026-08;salaires
+2026-08-30;VIR EMIS Scierie Imaginaire;-404.40;SI-2608-003;materiaux
+2026-09-01;PRLV Suite Bureautique Imaginaire;-48.00;Suite Bureautique Imaginaire;abonnement
+2026-09-02;PRLV Location Terminal Carte Exemple;-19.90;Location Terminal Carte Exemple;abonnement
+2026-09-02;PRLV Assurance Utilitaires Fictive;-426.00;ASS-2026-09;assurance
+2026-09-03;PRLV Logiciel Facturation Fictif;-36.00;Logiciel Facturation Fictif;abonnement
+2026-09-04;ENCAISSEMENT CB Mme Claire Exemple;2508.00;F2026-0120;encaissement_client
+2026-09-05;VIR RECU Boulangerie du Moulin Fictif SARL;4140.00;F2026-0101;encaissement_client
+2026-09-05;PRLV Opérateur Téléphone Démo;-89.97;Opérateur Téléphone Démo;abonnement
+2026-09-05;PRLV Prêt Véhicule Exemple échéance;-615.00;PRET-2026-09;emprunt
+2026-09-05;VIR EMIS Panneaux Fictifs Distribution;-912.48;PFD-2608-004;materiaux
+2026-09-05;VIR EMIS SCI Locaux Fictifs;-1440.00;SLF-2609-011;loyer
+2026-09-06;VIR RECU Boulangerie du Moulin Fictif SARL;1758.00;F2026-0102;encaissement_client
+2026-09-07;VIR EMIS Cabinet Comptable Exemple;-384.00;CCE-2608-002;honoraires
+2026-09-08;PRLV Box Internet Exemple;-44.99;Box Internet Exemple;abonnement
+2026-09-08;VIR EMIS Quincaillerie Démo;-609.84;QD-2608-005;materiaux
+2026-09-09;VIR RECU Mme Sophie Démo;951.50;F2026-0121;encaissement_client
+2026-09-10;ENCAISSEMENT CB Mme Claire Exemple;709.50;F2026-0118;encaissement_client
+2026-09-10;PRLV Stockage Cloud Exemple;-9.99;Stockage Cloud Exemple;abonnement
+2026-09-11;REMISE CHEQUE M. Paul Fictif;1540.00;F2026-0119;encaissement_client
+2026-09-11;VIR RECU Restaurant La Table Fictive;312.00;F2026-0108;encaissement_client
+2026-09-11;REMISE CHEQUE M. Louis Exemplaire;231.00;F2026-0126;encaissement_client
+2026-09-11;VIR EMIS Vernis et Teintes Exemple;-564.60;VET-2608-006;materiaux
+2026-09-12;PRLV Planning Chantier Fictif;-59.00;Planning Chantier Fictif;abonnement
+2026-09-12;CB Station Fictive Carburants;-243.60;SFC-2609-020;carburant
+2026-09-13;REMISE CHEQUE M. Paul Fictif;2948.00;F2026-0122;encaissement_client
+2026-09-14;PRLV Géolocalisation Flotte Fictive;-39.00;Géolocalisation Flotte Fictive;abonnement
+2026-09-15;ENCAISSEMENT CB Mme Julie Testeur;1353.00;F2026-0124;encaissement_client
+2026-09-15;VIR EMIS Scierie Imaginaire;-1292.28;SI-2608-007;materiaux
+2026-09-15;PRLV Organisme social Fictif cotisations;-4970.00;COT-2026-08;charges_sociales
+2026-09-16;VIR RECU Hôtel des Exemples SAS;6624.00;F2026-0104;encaissement_client
+2026-09-16;VIR RECU Pharmacie Imaginaire;1710.00;F2026-0112;encaissement_client
+2026-09-16;VIR RECU Agence Démo Immobilier;834.00;F2026-0110;encaissement_client
+2026-09-16;CB Fournitures Bureau Fictives;-148.20;FBF-2609-032;fournitures
+2026-09-17;VIR RECU Restaurant La Table Fictive;4944.00;F2026-0111;encaissement_client
+2026-09-17;ENCAISSEMENT CB M. Hugo Démo;748.00;F2026-0131;encaissement_client
+2026-09-17;VIR RECU M. Karim Imaginaire;462.00;F2026-0123;encaissement_client
+2026-09-17;PRLV Banque d'Images Démo;-29.00;Banque d'Images Démo;abonnement
+2026-09-18;VIR RECU Crèche Les Petits Exemples;1746.00;F2026-0113;encaissement_client
+2026-09-18;REMISE CHEQUE Cave Imaginaire SAS;318.00;F2026-0114;encaissement_client
+2026-09-18;CB Restaurant Le Fictif;-156.20;RLF-2609-035;repas
+2026-09-20;VIR RECU Studio Démo Architecture;4116.00;F2026-0125;encaissement_client
+2026-09-21;PRLV Impôts Fictifs TVA mensuelle;-6680.00;TVA-2026-08;impots_taxes
+2026-09-22;VIR RECU Coworking Fictif;1620.00;F2026-0116;encaissement_client
+2026-09-22;VIR RECU Mme Inès Fictive;1463.00;F2026-0129;encaissement_client
+2026-09-22;VIR EMIS Panneaux Fictifs Distribution;-1584.72;PFD-2608-008;materiaux
+2026-09-23;VIR RECU Hôtel des Exemples SAS;1626.00;F2026-0109;encaissement_client
+2026-09-24;VIR EMIS Remboursement avoir Mme Julie Testeur;-198.00;A2026-0001;remboursement_client
+2026-09-24;VIR EMIS Quincaillerie Démo;-995.52;QD-2608-009;materiaux
+2026-09-26;VIR RECU Studio Démo Architecture;3528.00;F2026-0107;encaissement_client
+2026-09-28;Frais tenue de compte;-18.50;FRAIS-2026-09;frais_bancaires
+2026-09-30;VIR EMIS Salaires septembre;-9040.00;SAL-2026-09;salaires
+2026-10-01;PRLV Suite Bureautique Imaginaire;-48.00;Suite Bureautique Imaginaire;abonnement
+2026-10-02;PRLV Location Terminal Carte Exemple;-19.90;Location Terminal Carte Exemple;abonnement
+2026-10-02;VIR EMIS Panneaux Fictifs Distribution;-1042.92;PFD-2609-013;materiaux
+2026-10-02;VIR EMIS Machines Bois Fictives;-9600.00;MBF-2610-037;investissement
+2026-10-03;PRLV Logiciel Facturation Fictif;-36.00;Logiciel Facturation Fictif;abonnement
+2026-10-04;VIR RECU Cabinet Exemple et Associés;4140.00;F2026-0127;encaissement_client
+2026-10-05;PRLV Opérateur Téléphone Démo;-89.97;Opérateur Téléphone Démo;abonnement
+2026-10-05;PRLV Prêt Véhicule Exemple échéance;-615.00;PRET-2026-10;emprunt
+2026-10-05;VIR EMIS SCI Locaux Fictifs;-1440.00;SLF-2610-021;loyer
+2026-10-06;CB Fournitures Bureau Fictives;-77.04;FBF-2610-033;fournitures
+2026-10-06;VIR EMIS Cabinet Comptable Exemple;-384.00;CCE-2609-012;honoraires
+2026-10-07;VIR RECU Cabinet Exemple et Associés;942.00;F2026-0136;encaissement_client
+2026-10-07;VIR EMIS Quincaillerie Démo;-1332.24;QD-2609-014;materiaux
+2026-10-08;PRLV Box Internet Exemple;-44.99;Box Internet Exemple;abonnement
+2026-10-08;VIR EMIS Vernis et Teintes Exemple;-501.84;VET-2609-015;materiaux
+2026-10-08;VIR EMIS Menuiserie Sous-traitance Exemple;-3720.00;MSE-2609-038;sous_traitance
+2026-10-09;CB Outillage Imaginaire;-1032.00;OI-2610-036;outillage
+2026-10-10;PRLV Stockage Cloud Exemple;-9.99;Stockage Cloud Exemple;abonnement
+2026-10-11;VIR RECU Crèche Les Petits Exemples;3552.00;F2026-0128;encaissement_client
+2026-10-11;VIR RECU Boulangerie du Moulin Fictif SARL;1308.00;F2026-0134;encaissement_client
+2026-10-12;VIR RECU Hôtel des Exemples SAS;15456.00;F2026-0115;encaissement_client
+2026-10-12;PRLV Planning Chantier Fictif;-59.00;Planning Chantier Fictif;abonnement
+2026-10-12;CB Station Fictive Carburants;-279.60;SFC-2610-030;carburant
+2026-10-13;VIR RECU Bâtiments Imaginaires SARL;717.60;F2026-0117;encaissement_client
+2026-10-13;VIR EMIS Scierie Imaginaire;-1107.24;SI-2609-016;materiaux
+2026-10-14;PRLV Géolocalisation Flotte Fictive;-39.00;Géolocalisation Flotte Fictive;abonnement
+2026-10-15;VIR RECU Hôtel des Exemples SAS;744.00;F2026-0139;encaissement_client
+2026-10-15;PRLV Organisme social Fictif cotisations;-5030.00;COT-2026-09;charges_sociales
+2026-10-16;VIR EMIS Panneaux Fictifs Distribution;-1507.92;PFD-2609-017;materiaux
+2026-10-17;VIR RECU M. Karim Imaginaire;1782.00;F2026-0146;encaissement_client
+2026-10-17;PRLV Banque d'Images Démo;-29.00;Banque d'Images Démo;abonnement
+2026-10-18;VIR RECU Bâtiments Imaginaires SARL;4536.00;F2026-0103;encaissement_client
+2026-10-21;VIR RECU Mme Sophie Démo;3498.00;F2026-0148;encaissement_client
+2026-10-21;PRLV Impôts Fictifs TVA mensuelle;-7310.00;TVA-2026-09;impots_taxes
+2026-10-22;ENCAISSEMENT CB Mme Claire Exemple;269.50;F2026-0152;encaissement_client
+2026-10-22;VIR EMIS Quincaillerie Démo;-1670.04;QD-2609-018;materiaux
+2026-10-24;REMISE CHEQUE M. Paul Fictif;1050.50;F2026-0154;encaissement_client
+2026-10-27;VIR EMIS Vernis et Teintes Exemple;-550.08;VET-2609-019;materiaux
+2026-10-28;VIR RECU Mme Sophie Démo;544.50;F2026-0155;encaissement_client
+2026-10-28;Frais tenue de compte;-18.50;FRAIS-2026-10;frais_bancaires

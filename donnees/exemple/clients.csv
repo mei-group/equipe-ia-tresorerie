@@ -1,0 +1,21 @@
+id_client;nom;type;siren;tva_intracom;adresse;code_postal;ville;email;delai_paiement_jours;mode_paiement
+C001;Boulangerie du Moulin Fictif SARL;professionnel;000000101;FR00000000101;3 rue de l'Exemple;00001;Villefictive;c001@example.com;30;virement
+C002;Cabinet Exemple et Associés;professionnel;000000102;FR00000000102;6 rue de l'Exemple;00002;Exempleville;c002@example.com;30;virement
+C003;Bâtiments Imaginaires SARL;professionnel;000000103;FR00000000103;9 rue de l'Exemple;00003;Villefictive;c003@example.com;30;virement
+C004;Restaurant La Table Fictive;professionnel;000000104;FR00000000104;12 rue de l'Exemple;00004;Exempleville;c004@example.com;30;virement
+C005;Hôtel des Exemples SAS;professionnel;000000105;FR00000000105;15 rue de l'Exemple;00005;Villefictive;c005@example.com;45;virement
+C006;Agence Démo Immobilier;professionnel;000000106;FR00000000106;18 rue de l'Exemple;00006;Exempleville;c006@example.com;30;virement
+C007;Pharmacie Imaginaire;professionnel;000000107;FR00000000107;21 rue de l'Exemple;00007;Villefictive;c007@example.com;30;prelevement
+C008;Garage Fictif Auto;professionnel;000000108;FR00000000108;24 rue de l'Exemple;00008;Exempleville;c008@example.com;30;virement
+C009;Crèche Les Petits Exemples;professionnel;000000109;FR00000000109;27 rue de l'Exemple;00009;Villefictive;c009@example.com;30;virement
+C010;Studio Démo Architecture;professionnel;000000110;FR00000000110;30 rue de l'Exemple;00010;Exempleville;c010@example.com;45;virement
+C011;Cave Imaginaire SAS;professionnel;000000111;FR00000000111;33 rue de l'Exemple;00011;Villefictive;c011@example.com;30;cheque
+C012;Coworking Fictif;professionnel;000000112;FR00000000112;36 rue de l'Exemple;00012;Exempleville;c012@example.com;30;virement
+C013;Mme Claire Exemple;particulier;;;39 rue de l'Exemple;00013;Villefictive;c013@example.com;15;carte
+C014;M. Paul Fictif;particulier;;;42 rue de l'Exemple;00014;Exempleville;c014@example.com;15;cheque
+C015;Mme Sophie Démo;particulier;;;45 rue de l'Exemple;00015;Villefictive;c015@example.com;15;virement
+C016;M. Karim Imaginaire;particulier;;;48 rue de l'Exemple;00016;Exempleville;c016@example.com;15;virement
+C017;Mme Julie Testeur;particulier;;;51 rue de l'Exemple;00017;Villefictive;c017@example.com;15;carte
+C018;M. Louis Exemplaire;particulier;;;54 rue de l'Exemple;00018;Exempleville;c018@example.com;15;cheque
+C019;Mme Inès Fictive;particulier;;;57 rue de l'Exemple;00019;Villefictive;c019@example.com;15;virement
+C020;M. Hugo Démo;particulier;;;60 rue de l'Exemple;00020;Exempleville;c020@example.com;15;carte
